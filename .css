@@ -1,0 +1,22 @@
+body {
+    background: #808080;
+    font-family: Arial;
+}
+
+
+.button:hover {
+    color: #ffd800;
+    background: #333;
+    tansition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+.button:active {
+    color: #ffd800;
+}
+
+.button2:hover{
+    display:none;
+
+}
+
